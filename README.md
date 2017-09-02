@@ -1,5 +1,5 @@
 # CostPers
-CostPers is an app that helps you better understand the value of your things. The app keeps track of how much you paid for an item and how many times you've used it - then it calculates the item's real-time "cost per use."
+CostPers is an app that helps you understand the value of your things. The app keeps track of how much you paid for an item and how many times you've used it - then it calculates the item's real-time "cost per use."
 
 Watch this short demo video to see the CostPers app in action:
 
@@ -7,21 +7,21 @@ Watch this short demo video to see the CostPers app in action:
 
 
 ## Team Members
+Costpers was created as a final project at Dev Bootcamp, San Francisco. Team members include:
+
+Ginny Fahs ([@ginnyfahs](http://github.com/ginnyfahs))
+
 Andrea Scott ([@icedcoffeeallday](http://github.com/icedcoffeeallday))
 
 Faye Hayes ([@fhayes301](http://github.com/fhayes301))
-
-Ginny Fahs ([@ginnyfahs](http://github.com/ginnyfahs))
 
 Kevin Cai ([@kevincai79](http://github.com/kevincai79))
 
 Tyler Kawabata ([@tylerk64](http://github.com/tylerk64))
 
-Costpers was created as a final project at Dev Bootcamp, San Francisco.
-
 ## MVP Functionality
 
-* CostPers is an iOS and Android app built on a decoupled architecture featuring:
+CostPers is an iOS and Android app built on a decoupled architecture featuring:
  * Rails API backend
  * React Native frontend
 
@@ -37,16 +37,15 @@ Costpers was created as a final project at Dev Bootcamp, San Francisco.
 * Routing and state management handled with React Native Router Flux
 
 ## Flow
-* Log in to see a list of your items, with starred items shown at the top
-* From the item list screen, you can:
- * Log a use of any item by tapping the gray checkmark, and see the cost-per-use go down in real time
- * Tap on any item to view the item's price and total uses, plus favorite or un-favorite the item
- * Use Add Item footer button to add an item
+* Log in to see a list of all items, with starred items at the top
+* Use Add Item footer button to add an item
+* Log a use of any item by tapping the gray checkmark, and see the cost-per-use go down in real time
+* Tap on an item to view its price and total uses
+* Favorite or un-favorite an item
 
 ## Future Features
-* You love logging seeing your laptop's CostPer drop, but what about all those subscriptions you have hanging around? Additional configuration for monthly subscriptions is on our list!
-* Add item photos
-* Deeper item categorization and analytics
-* Log past uses for an item you already own
+* Track the cost per use of monthly subscriptions
+* Add photos of items
+* Categorize items and see analytics
+* Log past uses of an item
 * Emoji support :heart:
-* Notifications and Google Maps integration for donating items with high CostPers

@@ -6,18 +6,8 @@ Watch this short demo video to see the CostPers app in action:
 [![alt text](https://raw.githubusercontent.com/icedcoffeeallday/CostPers/master/CostPers_on_YouTube.png)](https://www.youtube.com/watch?v=fcuIzBc5JEg&feature=youtu.be)
 
 
-## Team Members
-Costpers was created as a final project at Dev Bootcamp, San Francisco. Team members include:
-
-Ginny Fahs ([@ginnyfahs](http://github.com/ginnyfahs))
-
-Andrea Scott ([@icedcoffeeallday](http://github.com/icedcoffeeallday))
-
-Faye Hayes ([@fhayes301](http://github.com/fhayes301))
-
-Kevin Cai ([@kevincai79](http://github.com/kevincai79))
-
-Tyler Kawabata ([@tylerk64](http://github.com/tylerk64))
+## My Contribution
+I was responsible for all UI and design work. I also helped implement the login and favorite features.
 
 ## MVP Functionality
 
@@ -49,3 +39,16 @@ CostPers is an iOS and Android app built on a decoupled architecture featuring:
 * Categorize items and see analytics
 * Log past uses of an item
 * Emoji support :heart:
+
+## Team Members
+Costpers was created as a final project at Dev Bootcamp, San Francisco. Team members include:
+
+Ginny Fahs ([@ginnyfahs](http://github.com/ginnyfahs))
+
+Andrea Scott ([@icedcoffeeallday](http://github.com/icedcoffeeallday))
+
+Faye Hayes ([@fhayes301](http://github.com/fhayes301))
+
+Kevin Cai ([@kevincai79](http://github.com/kevincai79))
+
+Tyler Kawabata ([@tylerk64](http://github.com/tylerk64))

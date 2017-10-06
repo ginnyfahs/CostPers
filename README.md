@@ -7,7 +7,7 @@ Watch this short demo video to see the CostPers app in action:
 
 
 ## My Contribution
-I was responsible for all UI and design work. I also helped implement the login and favorite features.
+I was responsible for all UI and design work. I also collaborated on the login and favorite features.
 
 ## MVP Functionality
 
